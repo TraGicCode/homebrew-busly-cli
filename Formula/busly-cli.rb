@@ -1,9 +1,9 @@
 class BuslyCli < Formula
   desc "Unofficial CLI for NServiceBus"
   homepage "https://tragiccode.com/busly-cli/"
-  url "https://github.com/TraGicCode/busly-cli/releases/download/v0.64.16/busly-cli-v0.64.16-osx-arm64.tar.gz"
-  version "0.64.16"
-  sha256 "d01f737727a35f91af4a42fd7486f0dabe7c90d4a1e74c21c35f1048f161af5b"
+  url "https://github.com/TraGicCode/busly-cli/releases/download/v0.64.17/busly-cli-v0.64.17-osx-arm64.tar.gz"
+  version "0.64.17"
+  sha256 "774b383d69d065cbc315b7cf97b74846ca5ad61499f0734bbb0dabdff3b640e2"
   license "Apache-2.0"
 
 
